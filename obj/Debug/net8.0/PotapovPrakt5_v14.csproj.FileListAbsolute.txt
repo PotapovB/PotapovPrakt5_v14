@@ -1,0 +1,14 @@
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\bin\Debug\net8.0\PotapovPrakt5_v14.exe
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\bin\Debug\net8.0\PotapovPrakt5_v14.deps.json
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\bin\Debug\net8.0\PotapovPrakt5_v14.runtimeconfig.json
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\bin\Debug\net8.0\PotapovPrakt5_v14.dll
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\bin\Debug\net8.0\PotapovPrakt5_v14.pdb
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\obj\Debug\net8.0\PotapovPrakt5_v14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\obj\Debug\net8.0\PotapovPrakt5_v14.AssemblyInfoInputs.cache
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\obj\Debug\net8.0\PotapovPrakt5_v14.AssemblyInfo.cs
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\obj\Debug\net8.0\PotapovPrakt5_v14.csproj.CoreCompileInputs.cache
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\obj\Debug\net8.0\PotapovPrakt5_v14.dll
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\obj\Debug\net8.0\refint\PotapovPrakt5_v14.dll
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\obj\Debug\net8.0\PotapovPrakt5_v14.pdb
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\obj\Debug\net8.0\PotapovPrakt5_v14.genruntimeconfig.cache
+C:\Users\st310-07\Downloads\PotapovPrakt5_v14\obj\Debug\net8.0\ref\PotapovPrakt5_v14.dll
